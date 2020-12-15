@@ -1,3 +1,5 @@
 ### Sorting Algorithms
 
-- Bubble Sort
+- ## Bubble Sort
+- ## Inserstion Sort
+- ## Selection sort
